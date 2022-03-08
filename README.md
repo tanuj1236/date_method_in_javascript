@@ -1,0 +1,1 @@
+# date_method_in_javascript
